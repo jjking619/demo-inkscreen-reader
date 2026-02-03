@@ -1,0 +1,2 @@
+include lgpio_extra.py
+include src/lgpio.h
